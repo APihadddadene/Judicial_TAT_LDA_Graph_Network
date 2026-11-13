@@ -1,5 +1,9 @@
-Based on my Master's thesis, I have developed a case-matching proposal for the Tribunal administratif du travail du Québec. Utilizing 5,403 judgments from 2017, this framework combines Latent Dirichlet Allocation (LDA) for the semantic dimension with network graph analysis for the procedural dimension.
+This section is dedicated to graph network analysis. Here, we explore the network's structure and present a community detection analysis. Our initial investigation relies on Gephi to compute node degrees, modularity, and community structures.
 
-Dans le cadre de mon mémoire de maîtrise, j'ai élaboré une proposition d'appariement de jurisprudence pour le Tribunal administratif du travail du Québec. S'appuyant sur 5 403 jugements de l'année 2017, cette approche associe l'allocation de Dirichlet latente (LDA) pour la dimension sémantique à l'analyse de graphes de réseau pour la dimension procédurale.
+In addition, we implement a NetworkX-based analysis in Python. Note that the results between Gephi and NetworkX may diverge due to differences in their underlying computational implementations, random seed initializations, and heuristic optimization methods.
+
+Dans cette section, nous abordons les éléments relatifs à l'analyse de réseau de graphe du mémoire. Notre travail s'est basé principalement sur les résultats proposés par Gephi pour les degrés, la modularité et la structure des communautés.
+
+Nous proposons une analyse avec NetworkX dans Python ici. Notez que les résultats entre Gephi et NetworkX peuvent diverger à cause de la différence de calcul entre les deux méthodes. 
 
 Réseau de graphe|Network Graph visualization : [>>lien | link<<](https://apihadddadene.github.io/network_graph_viewer_memoire/network/)
