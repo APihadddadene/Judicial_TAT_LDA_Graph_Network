@@ -1,34 +1,35 @@
 # Annexes
-![alt text](Fr/00_biblio%20et%20annexes/images/image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image.png](Images/image.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image-1.png](Images/image-1.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image-2.png](Images/image-2.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image-3.png](Images/image-3.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image-4.png](Images/image-4.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image-5.png](Images/image-5.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image-6.png](Images/image-6.png)
 <p align="center">
-  <img src="image-7.png" alt="alt text" />
+  <img src="Images/image-7.png" alt="docs/Fr/00_Bibliographie & Annexes/Images/image-7.png" />
 </p>
 
-![alt text](image-8.png)
-![alt text](image-9.png)
-![alt text](image-11.png)
-![alt text](image-12.png)
-![alt text](image-13.png)
-![alt text](image-14.png)
-![alt text](image-15.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image-8.png](Images/image-8.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image-9.png](Images/image-9.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image-10.png](Images/image-10.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image-11.png](Images/image-11.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image-12.png](Images/image-12.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image-13.png](Images/image-13.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image-14.png](Images/image-14.png)
+![docs/Fr/00_Bibliographie & Annexes/Images/image-15.png](Images/image-15.png)
 <p align="center">
-  <img src="image-16.png" alt="alt text" />
+  <img src="Images/image-16.png" alt="alt text" />
 </p>
 
-![alt text](image-17.png)
+![alt text](Images/image-17.png)
 <p align="center">
-  <img src="image-18.png" alt="alt text" />
+  <img src="Images/image-18.png" alt="alt text" />
 </p>
 
-![alt text](image-19.png)
+![alt text](Images/image-19.png)
 <p align="center">
-  <img src="image-20.png" alt="alt text" />
+  <img src="Images/image-20.png" alt="alt text" />
 </p>
 
-![alt text](image-21.png)
+![alt text](Images/image-21.png)
