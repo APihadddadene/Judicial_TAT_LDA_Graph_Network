@@ -1,5 +1,5 @@
 # Annexes
-![alt text](FR/00_biblio%20et%20annexes/images/image.png)
+![alt text](Fr/00_biblio%20et%20annexes/images/image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
